@@ -1,10 +1,9 @@
-
-![image](https://github.com/user-attachments/assets/c15437ad-dd8d-4bef-b99b-13bfed06dc37)
-![image](https://github.com/user-attachments/assets/7e085d40-4797-40d1-b563-fbbaa84bfaf1)
-
+# 홈화면
+![image](https://github.com/user-attachments/assets/05025ea8-c5b0-4f37-b638-c6c0a4c82057)
 
 
-
+# 웹툰 정보 화면
+![image](https://github.com/user-attachments/assets/ae092db3-5dbb-4516-88a5-748817056027)
 
 
 ### 배운점 
